@@ -1,3 +1,5 @@
+package com.github.emmmoore.soundroid;
+
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 import javax.lang.model.util.ElementScanner14;
