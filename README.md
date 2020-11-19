@@ -2,7 +2,8 @@
 Soundroid makes playing, editing, and displaying music in Android apps simpler. 
 
 ## Functioning Features
-[no functioning features at this time]
+* Storing tracks
+* Organizing them in lists
 
 ## In the Works 
 * Playing, pausing, stopping, and replaying music
@@ -12,4 +13,5 @@ Soundroid makes playing, editing, and displaying music in Android apps simpler.
     * choose from preset styles to mix your music
     * customize and safe your own styles
 
-Interested in helping out? Go ahead. Any ideas for features which would help Android developers work with sound in their apps can be added to the `ideas.md` file
+## Contributions
+Contributions are encouraged! Please read the `CODE_OF_CONDUCT.md` before contributing, and heed it in your contributions. Any ideas you may have can go in `ideas.md`.
