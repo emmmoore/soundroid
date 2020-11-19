@@ -8,3 +8,5 @@ src/main/java/com/github/emmmoore/.DS_Store
 .gradle/6.3/
 .project
 .settings/
+.gradle/6.7.1/
+.vscode/

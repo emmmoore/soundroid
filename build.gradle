@@ -1,16 +1,20 @@
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+buildscript {
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.0.0'
+    }
+}
 
 apply plugin: 'java'
 
-plugins {
-        id 'com.android.library'
-}
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 repositories {
     mavenCentral()
     google()
 }
+
+
 
 android {
     compileSdkVersion 30
